@@ -9,7 +9,7 @@
 <body>
     <h1>auto</h1>
     <?php
-    echo 'fucking finally?';
+    echo 'It works!';
     ?>
 </body>
 
